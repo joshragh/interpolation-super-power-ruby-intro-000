@@ -4,4 +4,4 @@ end
 
 color = ["red", "orange", "yellow", "green", "blue", "violet", "indigo"]
 
-display_rainbow(color)
+display_rainbow
